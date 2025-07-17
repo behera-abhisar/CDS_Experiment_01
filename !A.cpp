@@ -1,6 +1,6 @@
 // Name: Abhisar Behera
 // PRN: 24070123002
-// Experiment - 1
+// Experiment 1(A)
 
 #include <iostream>
 
@@ -15,4 +15,5 @@ int main() {
     cin >> num_2;
     sum_out = num_1 + num_2;
     cout << "Sum of " << num_1 << " and " << num_2 << " is " << sum_out << endl;
+    return 0;
 }
