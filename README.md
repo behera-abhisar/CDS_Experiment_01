@@ -1,0 +1,1 @@
+In this experiment, I learned the basic structure of a C++ program by writing a simple "Hello World" output and a simple calculator program. I explored how to declare variables using different data types and perform arithmetic operations. This helped me understand how input, output, and expressions work together in a C++ program.
