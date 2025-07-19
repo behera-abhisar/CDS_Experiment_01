@@ -1,6 +1,6 @@
 // Name: Abhisar Behera
 // PRN: 24070123002
-// Experiment 1(A)
+// Experiment 1(B)
 
 #include <iostream>
 
